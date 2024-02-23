@@ -1,6 +1,6 @@
-name: Demo Block
+name: Demo1 Block
 type: module
 description: 'Demonstrates possibilities of Blocks in Drupal 8.'
-package: Demo
+package: Demo1
 version: 8.x-1.x
 core: 8.x
